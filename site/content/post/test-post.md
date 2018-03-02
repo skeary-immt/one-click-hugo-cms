@@ -5,6 +5,8 @@ description: Test blurb
 ---
 This is my test post!!!
 
+**This is bold**
 
+# **THis is a heading**
 
 vimeo B0D6SW2W9n8
